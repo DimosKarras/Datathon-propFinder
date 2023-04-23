@@ -1,0 +1,74 @@
+[
+    {
+        "region_name": "Attiki",
+        "year": 2019,
+        "homicide": 36,
+        "break_in": 47832,
+        "joyriding": 13637,
+        "heist": 3382
+    },
+    {
+        "region_name": "Attiki",
+        "year": 2018,
+        "homicide": 45,
+        "break_in": 43743,
+        "joyriding": 14753,
+        "heist": 3460
+    },
+    {
+        "region_name": "Attiki",
+        "year": 2017,
+        "homicide": 35,
+        "break_in": 43715,
+        "joyriding": 19714,
+        "heist": 3418
+    },
+    {
+        "region_name": "Attiki",
+        "year": 2016,
+        "homicide": 39,
+        "break_in": 43270,
+        "joyriding": 16319,
+        "heist": 3672
+    },
+    {
+        "region_name": "Attiki",
+        "year": 2015,
+        "homicide": 28,
+        "break_in": 42789,
+        "joyriding": 16307,
+        "heist": 3291
+    },
+    {
+        "region_name": "Attiki",
+        "year": 2014,
+        "homicide": 40,
+        "break_in": 39298,
+        "joyriding": 15530,
+        "heist": 2944
+    },
+    {
+        "region_name": "Attiki",
+        "year": 2013,
+        "homicide": 54,
+        "break_in": 40456,
+        "joyriding": 17158,
+        "heist": 3715
+    },
+    {
+        "region_name": "Attiki",
+        "year": 2012,
+        "homicide": 66,
+        "break_in": 48785,
+        "joyriding": 18782,
+        "heist": 4495
+    },
+    {
+        "region_name": "Attiki",
+        "year": 2011,
+        "homicide": 86,
+        "break_in": 56852,
+        "joyriding": 20142,
+        "heist": 5134
+    }
+]
